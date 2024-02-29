@@ -1,16 +1,12 @@
-### Hi there 👋
+Hi 👋 My name is Helen
+======================
 
-<!--
-**ElenaStasko/ElenaStasko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior analyst
+--------------
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*  🔭 I’m currently working on my hard skills in Data Analysis
+* 🌍  I'm from Siberia, Tomsk
+* 📫  You can contact me at [http://t.me/ElenaStasko](mailto:http://t.me/ElenaStasko)
+* 🧠  I'm learning Python, SQL
+* 🤝  I’m currently looking for a new job
+* ⚡  Fact about me: I like sport and bake cakes
