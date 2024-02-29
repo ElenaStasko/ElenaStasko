@@ -1,7 +1,7 @@
 Hi 👋 My name is Helen
 ======================
 
-Junior analyst
+Data Analyst
 --------------
 
 *  🔭 I’m currently working on my hard skills in Data Analysis
